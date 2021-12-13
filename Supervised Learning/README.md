@@ -18,3 +18,5 @@ In this file, I will introduce many different supervised learning algorithms:
 <img src="https://bigdata-madesimple.com/wp-content/uploads/2018/02/Machine-Learning-Explained1.png" width="800" height="400">
 
 
+# References
+Ronald Van Loon, BigDataMakeSimple, Machine learning explained: Understanding supervised, unsupervised, and reinforcement learning, https://bigdata-madesimple.com/machine-learning-explained-understanding-supervised-unsupervised-and-reinforcement-learning/
