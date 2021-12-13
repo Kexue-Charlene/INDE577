@@ -20,3 +20,4 @@ Unsupervised learning including:
 In this project, we code these algorithms from scrach by using python in jupyter notebook. For the data we use are different from each algorithms. Some of them are from kaggle, and some of them are from sklearn dataset. More details can be found in each file. 
 
 <img src="https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg">
+
